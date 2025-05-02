@@ -1,0 +1,12 @@
+class Number{
+	public static void main(String[]args){
+		int number =5;
+		System.out.println(number);
+		long numberl = 123_456_789_012_345L;
+		System.out.println(numberl);
+		long sum = 123 + numberl;
+		System.out.println(sum);
+		int sumi = number + 10;
+		System.out.println(sumi);
+	}
+}
